@@ -1,0 +1,4 @@
+This is a segment of file;
+line 1;
+lin 2;
+finish	;
